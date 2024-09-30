@@ -1,0 +1,55 @@
+h1{
+    font-size: 24px;
+    color: azure;
+}
+form{ 
+    display:inline-block;
+    background-color:color-mix(in srgb, rgb(15, 197, 222) 30%, rgb(7, 134, 184) 70%) ;
+        border: 1.5px solid black;
+    padding: 5rem;
+    color: azure;
+    font-size: 20px;
+}
+input{
+    width: 290px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+label{
+    float:left
+    
+}
+#em{
+    width: 610px;
+    padding: 10px;
+    border-radius: 10px;
+    float:left
+    
+}
+#s{
+    width: 100px;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+#c{
+    width: 140px;
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+div{
+    display:inline-block
+}
+#m{
+    width: 610px;height: 150px;
+    float: left;
+}
+#su{
+    float: right;
+    width: 100px;
+    background-color: aquamarine;
+}
